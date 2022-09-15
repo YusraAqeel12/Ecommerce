@@ -176,7 +176,7 @@ const HomeScreen = props => {
 
                   <View
                     style={{
-                      height: '10%',
+                      height: '20%',
                       width: '100%',
                       justifyContent: 'center',
                       alignItems: 'center',
